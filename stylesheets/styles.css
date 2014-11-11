@@ -157,7 +157,7 @@ header ul li + li + li {
 }
 header ul a {
   line-height: 1;
-  font-size: 11px;
+  font-size: 14px;
   color: #fff;
   color: rgba(255, 255, 255, 0.8);
   display: block;
@@ -235,7 +235,7 @@ img {
 code, pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color: #333;
-  font-size: 12px;
+  font-size: 14px;
   overflow-x: auto;
 }
 
@@ -274,7 +274,7 @@ th {
 }
 
 small {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 hr {
