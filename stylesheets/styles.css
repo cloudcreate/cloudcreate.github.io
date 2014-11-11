@@ -12,14 +12,14 @@ html {
 body {
   padding: 50px 0;
   margin: 0;
-  font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 300;
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
 }
 
 .wrapper {
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
   background: #DEDEDE;
   -webkit-border-radius: 8px;
@@ -69,7 +69,7 @@ header {
   border-bottom: 1px solid #B2D2E1;
 }
 header h1 {
-  margin: 0;
+  margin: 50;
   padding: 0;
   font-size: 24px;
   line-height: 1.2;
@@ -80,7 +80,7 @@ header.without-description h1 {
   margin: 10px 0;
 }
 header p {
-  margin: 0;
+  margin: 50;
   color: #61778B;
   width: 300px;
   font-size: 13px;
@@ -98,7 +98,7 @@ header p.view small {
   font-weight: 400;
 }
 header ul {
-  margin: 0;
+  margin: 50;
   padding: 0;
   list-style: none;
   position: absolute;
